@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 to jest zawartość z poziomu PIERWSZEGO katalogu.
+=======
+to jest zawartość z poziomu DRUGIEGO katalogu
+>>>>>>> 58cefa6 (zmiana z drugiego katalogu)
