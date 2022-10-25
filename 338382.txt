@@ -1,2 +1,2 @@
-to jest zawartość z poziomu DRUGIEGO katalogu
+Zmiana z 2 katalogu i gałęzi test_branch.
 
