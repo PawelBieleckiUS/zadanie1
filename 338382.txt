@@ -1,1 +1,1 @@
-Będzie konflikt w smartgit
+zmiana gdzie indziej
