@@ -1,2 +1,1 @@
-Zmiana z 2 katalogu i gałęzi test_branch.
-
+Będzie konflikt w smartgit
